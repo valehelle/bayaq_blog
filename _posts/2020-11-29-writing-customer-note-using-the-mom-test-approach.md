@@ -26,6 +26,6 @@ Some of the thing he recommends to include in the notes are:
 
 You can follow his way of taking note or you can even roll out your own way. But the important thing is to keep a note that you always want to look at.
 
-If you are interested on reading "The Mom Test"(which you should!), you can find it [here](http://momtestbook.com)
+If you are interested on reading "The Mom Test"(which you should!), you can find it [here](http://momtestbook.com).
 
 
