@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: Bayaq
+title: Fluorite
 
 # Short description of your site
-description: Pay multiple bills in one click.
+description: Note taking app.
 
 # Your name to show in the footer
 author: Admin
@@ -33,7 +33,7 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "admin@bayaqapp.com"
+#  email: "admin@inoffice.chat"
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -60,7 +60,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "blog.bayaqapp.com"
+url-pretty: "blog.getfluorite.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
