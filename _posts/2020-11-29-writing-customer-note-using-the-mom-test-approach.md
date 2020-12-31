@@ -28,4 +28,4 @@ You can follow his way of taking note or you can even roll out your own way. But
 
 If you are interested on reading "The Mom Test"(which you should!), you can find it [here](http://momtestbook.com).
 
-
+If you do want to follow his way of taking note, [Fluorite](https://www.getfluorite.com) is an Android and iOS app that is design just for that! 
